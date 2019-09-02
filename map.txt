@@ -1,0 +1,26 @@
+context:{
+  request,
+  response,
+  app,
+  req,
+  res,
+  originalUrl,
+  state
+}
+
+request:{
+  response
+  app,
+  req,
+  res,
+  ctx,
+  originalUrl
+}
+
+response:{
+  request
+  app,
+  req,
+  res,
+  ctx
+}

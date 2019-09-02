@@ -1,0 +1,48 @@
+Arguments: 
+  /Users/xuzhigang/.nvm/versions/node/v10.16.0/bin/node /usr/local/bin/yarn add koa-router --save
+
+PATH: 
+  /Users/xuzhigang/.nvm/versions/node/v10.16.0/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/mysql/bin:/usr/local/go/bin
+
+Yarn version: 
+  1.3.2
+
+Node version: 
+  10.16.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "mock-koa",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/vin1992/mock-koa.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/vin1992/mock-koa/issues"
+    },
+    "homepage": "https://github.com/vin1992/mock-koa#readme",
+    "dependencies": {
+      "koa": "^2.8.1"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: EACCES: permission denied, mkdir '/Users/xuzhigang/mock-koa/node_modules/isarray'
