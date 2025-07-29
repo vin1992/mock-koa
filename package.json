@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/vin1992/mock-koa#readme",
   "dependencies": {
-    "koa": "^2.8.1",
+    "koa": "^3.0.1",
     "koa-router": "^7.4.0"
   }
 }
